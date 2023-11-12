@@ -1,10 +1,4 @@
-Certainly! Below is a sample README file that you can include in your GitHub repositories for the provided code:
-
----
-
-# Code Freaks Website
-
-Welcome to the Code Freaks website repository! This repository contains the source code for a website developed by Code Freaks. The website includes multiple pages such as the homepage, gallery, and FAQ. It also features a responsive design for various devices.
+# gymProject
 
 ## Pages
 
@@ -41,27 +35,6 @@ The `CSS` folder contains the following stylesheets:
 - CSS
 - Bootstrap
 - Font Awesome
-
-## Contact Us
-
-If you have any questions or need assistance, feel free to reach out to us:
-- Email: codefreak@gmail.com
-- Phone: +91 9876543210
-- Location: Surya Nagar, Vikhroli West, Mumbai-83
-
-## Connect with Us
-
-- [Facebook](#)
-- [Twitter](#)
-- [Instagram](https://www.instagram.com/sl.gaming0/)
-
-## About Code Freaks
-
-Code Freaks is passionate about creating thoughtful and purposeful websites. We love what we do and work with great clients worldwide.
-
----
-
-Feel free to customize this README based on your specific details and additional information you want to provide about your project.
 
 ## Screenshots:
 
